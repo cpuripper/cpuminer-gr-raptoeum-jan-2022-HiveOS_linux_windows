@@ -1,8 +1,10 @@
+
+
 UPDATED JAN.10.2022
--UPDATED config.json
-    -HASH MONITOR
-    -COLOR MONITOR
-    -THREAD COUNT
+    -UPDATED config.json
+        HASH MONITOR
+        COLOR MONITOR
+        THREAD COUNT
 
 -FILE UPDATED
   
