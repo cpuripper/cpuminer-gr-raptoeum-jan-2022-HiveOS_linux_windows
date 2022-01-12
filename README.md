@@ -1,7 +1,6 @@
 UPDATED JAN.10.2022
 
-- CLEAN-UP
-- FILE UPDATED
+- Major-file-update
 - *LOW STALE SHARE RATE 
 - **VERY LOW REJECTED SHARE RATE
 
@@ -44,3 +43,6 @@ Flags:
         HASH MONITOR
         COLOR MONITOR
         THREAD COUNT
+        
+*long runs with very low stale share rate 45day run.  
+**almost no rejected shares over 45day run. 
