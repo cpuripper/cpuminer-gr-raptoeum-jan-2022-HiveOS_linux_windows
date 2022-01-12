@@ -1,6 +1,6 @@
 UPDATED JAN.10.2022
 
-- Slow hash display 
+- Slow display 
 - Major-file-update
 - *LOW STALE SHARE RATE 
 - **VERY LOW REJECTED SHARE RATE
