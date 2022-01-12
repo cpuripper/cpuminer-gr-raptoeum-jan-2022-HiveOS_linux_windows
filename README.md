@@ -17,6 +17,7 @@ General:
     Update startup scripts to accommodate changes in Windows 11.
     
 Improvements:
+    
     Intel Chips tested:
 
     Intel Core™ i9
