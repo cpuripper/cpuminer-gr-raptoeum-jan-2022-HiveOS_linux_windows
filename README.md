@@ -31,11 +31,13 @@ Improvements:
     Xeon 2600 to 2699 
     Will work with all genertaions. 
 
+    AMD Chips tested:
+    
     AMD Ryzen™ 3
     AMD Ryzen™ 5
-    Ryzen™ Threadripper™
+    AMD Ryzen™ Threadripper™
     
-    Will also work with "ALL" generations of AMD chips from (2000-2022)
+    Will also work with "ALL" generations of AMD chips (2000-2022)
 
     Will also work will all AMD server chips.
   
