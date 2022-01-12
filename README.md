@@ -4,6 +4,7 @@ UPDATED JAN.10.2022
 - Major-file-update
 - *LOW STALE SHARE RATE 
 - **VERY LOW REJECTED SHARE RATE
+- Updated READMEFIRST file.
 
 Made for Flockpool.com
 
