@@ -1,6 +1,6 @@
 UPDATED JAN.10.2022
 
-- Fixed Overflow issue runs 10% less electricity (your room will feel cooler)
+- Fixed Overflow issue runs 10% - 12% less energy (your room will feel cooler)
 - New build in Multi tasker (eg.running youtube and other apps with minimal interruptions)
 - Slow display 
 - Major-file-update
