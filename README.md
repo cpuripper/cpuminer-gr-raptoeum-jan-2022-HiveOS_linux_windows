@@ -2,9 +2,9 @@ UPDATED JAN.10.2022
 
 - Fixed Overflow issue runs 10% - 12% less energy does not affect hashrate(your room will feel cooler)
 - New build in Multi tasker can run cpuminer and apps at the same time (eg.running youtube and email apps with minimal interruptions when cpuminer is running)
-- Slow display active
-- Major-file-update
-- New "extra features" section in config.json
+- Slow display added to config.json
+- Major file updates on all files
+- New "extra features" section added to config.json
 - *LOW STALE SHARE RATE 
 - **VERY LOW REJECTED SHARE RATE
 - Updated READMEFIRST.txt
