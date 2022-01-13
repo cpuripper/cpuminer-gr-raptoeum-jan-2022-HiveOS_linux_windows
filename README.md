@@ -1,10 +1,13 @@
 UPDATED JAN.10.2022
 
+- Fixed Overflow issue runs 10% less electricity (your room will feel cooler)
+- New build in Multi tasker (eg.running youtube and other apps with minimal interruptions)
 - Slow display 
 - Major-file-update
+- New extra "extra features" section in config.json
 - *LOW STALE SHARE RATE 
 - **VERY LOW REJECTED SHARE RATE
-- Updated READMEFIRST file.
+- Updated READMEFIRST.txt
 
 Made for Flockpool.com
 
