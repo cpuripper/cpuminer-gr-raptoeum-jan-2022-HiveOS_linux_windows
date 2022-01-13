@@ -51,5 +51,5 @@ Flags:
         COLOR MONITOR
         THREAD COUNT
         
-*long runs with very low stale share rate under 0.4% over 45day run.  
+*long runs with low stale share rate under 0.4% over 45day run.  
 **very low rejected shares under 0.01% over 45day run. 
