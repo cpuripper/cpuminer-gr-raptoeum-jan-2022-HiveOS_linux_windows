@@ -8,6 +8,7 @@ UPDATED JAN.10.2022
 - *LOW STALE SHARE RATE 
 - **VERY LOW REJECTED SHARE RATE
 - Updated READMEFIRST.txt
+- Ramp feature will ramp up to all cores. 
 
 Made for Flockpool.com
 
