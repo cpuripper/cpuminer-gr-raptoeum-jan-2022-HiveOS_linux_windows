@@ -1,6 +1,6 @@
 UPDATED JAN.10.2022
 
-- Fixed Overflow issue runs 10% - 12% less energy (your room will feel cooler)
+- Fixed Overflow issue runs 10% - 12% less energy does not affect hashrate(your room will feel cooler)
 - New build in Multi tasker can run cpuminer and apps at the same time (eg.running youtube and email apps with minimal interruptions)
 - Slow display active
 - Major-file-update
