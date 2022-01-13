@@ -8,7 +8,7 @@ UPDATED JAN.10.2022
 - *LOW STALE SHARE RATE 
 - **VERY LOW REJECTED SHARE RATE
 - Updated READMEFIRST.txt
-- New build in Ramp feature will ramp up to all cores. 
+- New build in Ramp feature can take up to 10 mins to ramp up to all cores. 
 
 Made for Flockpool.com
 
