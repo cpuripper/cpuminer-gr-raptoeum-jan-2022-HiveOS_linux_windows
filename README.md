@@ -4,7 +4,7 @@ UPDATED JAN.10.2022
 - New build in Multi tasker can run cpuminer and apps at the same time (eg.running youtube and email apps with minimal interruptions when cpuminer is running)
 - Slow display active
 - Major-file-update
-- New extra "extra features" section in config.json
+- New "extra features" section in config.json
 - *LOW STALE SHARE RATE 
 - **VERY LOW REJECTED SHARE RATE
 - Updated READMEFIRST.txt
