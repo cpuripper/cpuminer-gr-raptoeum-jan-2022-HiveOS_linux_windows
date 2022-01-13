@@ -1,8 +1,8 @@
 UPDATED JAN.10.2022
 
 - Fixed Overflow issue runs 10% - 12% less energy (your room will feel cooler)
-- New build in Multi tasker (eg.running youtube and other apps with minimal interruptions)
-- Slow display 
+- New build in Multi tasker can run cpuminer and apps at the same time (eg.running youtube and email apps with minimal interruptions)
+- Slow display active
 - Major-file-update
 - New extra "extra features" section in config.json
 - *LOW STALE SHARE RATE 
