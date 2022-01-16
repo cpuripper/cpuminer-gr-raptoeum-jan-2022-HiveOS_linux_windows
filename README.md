@@ -1,7 +1,7 @@
 UPDATED JAN.10.2022
 
 - Fixed Overflow issue runs 10% - 12% less energy does not affect hashrate(your room will feel cooler)
-- New build in Multi tasker can run cpuminer and apps at the same time (eg.running youtube and email apps with minimal interruptions when cpuminer is running)
+- New build in Multi tasker can run cpuminer and apps at the same time (eg.running youtube, facebook, play simple games with minimal interruptions when cpuminer is running)
 - Slow display added to config.json
 - Major file updates on all files
 - New "extra features" section added to config.json
